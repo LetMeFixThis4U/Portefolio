@@ -25,9 +25,16 @@ const { name, label } = basics;
 		</div>
 		<div class="space-y-12 md:col-span-4 print:col-span-1 print:grid print:grid-cols-4 print:gap-2 print:space-y-0">
 			<Experience className="print:col-span-3" />
-			<Projects className="print:hidden" />
-			<Skills className="print:hidden" />
-			<Education className="order-first" />
+		</div>
+		<!-- Center Education, Skills, and Projects section -->
+		<div class="md:col-span-6 flex justify-center">
+			<div class="w-full max-w-4xl space-y-30">
+				<div class="grid grid-cols-1 md:grid-cols-4 gap-10">
+					<Education className="md:col-span-5" />
+					<Skills className="md:col-span-5" />
+					<Projects className="md:col-span-5" />
+				</div>
+			</div>
 		</div>
 		<Tail />
 	</main>
