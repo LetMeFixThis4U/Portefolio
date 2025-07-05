@@ -151,16 +151,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 
 <script>
 	const select = document.getElementById("themeSwitch") as HTMLSelectElement;
-	const langSelect = document.getElementById("langSwitch") as HTMLSelectElement;
-	
-	const lang = localStorage.getItem("lang") || "FR";
-	langSelect.value = lang;
-	langSelect.addEventListener("change", (event: Event) => {
-		const select = event.target as HTMLSelectElement;
-		localStorage.setItem("lang", select.value);
-		window.location.reload(); // Reload the page to apply the language change
-	});
-	
+
 	const theme = localStorage.getItem("theme");
 	const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
 
