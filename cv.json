@@ -6,7 +6,7 @@
     "email": "charlesroyluc@gmail.com",
     "phone": "+33 6 44 23 88 80",
     "url": "https://letmefixthis4u.github.io/Portefolio/",
-    "summary": "Ingénieur en Intelligence Artificielle avec une solide expérience en Computer Vision (Vision par Ordinateur), en Apprentissage Automatique et en développement de solutions logicielles innovantes. Passionné par la résolution de problèmes complexes et l'optimisation des processus grâce à l'IA et aux technologies de pointe.",
+    "summary": "Ingénieur en Intelligence Artificielle avec une solide expérience en Computer Vision (Vision par Ordinateur), Data Science et en développement de solutions logicielles innovantes. Passionné par la résolution de problèmes complexes et l'optimisation des processus grâce à l'IA et aux technologies de pointe.",
     "theme": "dark",
     "location": {
       "city": "Roanne",
@@ -38,6 +38,7 @@
       "highlights": [
         "Conception, développement et déploiement de solutions complètes d'Intelligence Artificielle",
         "Collaboration étroite avec divers départements pour comprendre leurs besoins et défis",
+        "conception et Developpement d'application web ou multi-plateforme",
         "Recherche constante d'innovation et d'optimisation des processus et solutions en utilisant les dernières technologies en IA et développement logiciel",
         "Contribution active à la création et à la dynamisation du département IA en fournissant une expertise technique et en formant les membres de l'équipe"
       ],
@@ -49,7 +50,8 @@
       ],
       "achievements": [
         "Développement et déploiement réussis de multiples solutions IA qui ont amélioré l'efficacité et la qualité des services. Par exemple, un modèle capable de détecter les fibres d'amiante dans les images.",
-        "Amélioration de la collaboration inter-départementale, conduisant à des solutions IA plus efficaces et sur mesure."
+        "Amélioration de la collaboration inter-départementale, conduisant à des solutions IA plus efficaces et sur mesure.",
+        "Livraison de plusieurs projets pour plusieurs départements, améliorant leurs performances et la fiabilité des systèmes"
       ],
       "skills": [
         "Computer Vision (Vision par Ordinateur)",
@@ -85,20 +87,19 @@
       "url": "https://openclassrooms.com/fr/paths/2053-ai-engineer",
       "startDate": "2021-08-01",
       "endDate": "2022-11-01",
-      "summary": "Découverte du b.a.-ba. d'un Ingénieur IA au travers du parcours proposé par OpenClassrooms, ce qui m'a équipé de compétences avancées en apprentissage automatique, Data Sciences, Deep learning et en gestion de projets IA.",
+      "summary": "Découverte du b.a.-ba. d'un Ingénieur IA au travers du parcours proposé par OpenClassrooms & CentraleSupélec, ce qui m'a équipé de compétences avancées dans le domaine et en gestion de projets.",
       "highlights": [
         "Conception, développement et déploiement de solutions complètes d'Intelligence Artificielle",
         "Création et ajustement de divers modèles (Machine Learning, Deep Learning) pour répondre à des besoins spécifiques",
         "Gestion de projets IA de la conception au déploiement, en garantissant l'alignement avec les objectifs du projet",
-        "Collaboration avec des équipes pluridisciplinaires pour intégrer des solutions IA dans les systèmes existants",
-        "Reste à l'affût des dernières avancées en technologies et méthodologies IA"
+        "Projets pluridisciplinaires pour intégrer des solutions IA specifiques aux besoins variés de ceux-ci",
+        "Rester à l'affût des dernières avancées en technologies et méthodologies IA"
       ],
       "responsibilities": [
         "Développement de solutions IA de bout en bout, incluant l'analyse des besoins, la conception de l'architecture technique, le développement de modèles et l'intégration des systèmes.",
-        "Formation et ajustement de modèles d'apprentissage automatique et Deep learning pour répondre à des besoins spécifiques.",
+        "Formation et ajustement de modèles de Machine Learning et Deep learning pour répondre à des besoins spécifiques.",
         "Gestion de projets IA, garantissant une livraison en temps voulu et un alignement avec les objectifs stratégiques.",
-        "Projets en relation avec divers départements pour comprendre leurs défis et développer des solutions IA sur mesure.",
-        "Innovation et optimisation continues des processus IA en utilisant les dernières technologies et meilleures pratiques."
+        "Projets en relation avec divers corps de métiers pour comprendre leurs défis et développer des solutions IA sur mesure.",
       ],
       "achievements": [
         "Réussite du parcours Ingénieur IA d'OpenClassrooms, acquérant une expertise en IA",
@@ -133,7 +134,7 @@
       "location": "Elancourt, France",
       "startDate": "2019-09-31",
       "endDate": "2020-01-31",
-      "summary": "Concentration sur le développement et la mise à jour de modèles de simulation, collaboration avec de petites équipes pour répondre aux demandes des clients.",
+      "summary": "Concentration sur le développement et la mise à jour de modèles de simulation.",
       "highlights": [
         "Développement et mise à jour de modèles de simulation pour le Rafale en utilisant C++",
         "Collaboration avec une petite équipe pour répondre efficacement aux demandes des clients",
@@ -169,9 +170,9 @@
       "url": "https://astekgroup.fr/",
       "startDate": "2018-06-01",
       "endDate": "2019-07-13",
-      "summary": "En tant que Développeur Consultant chez Astek, j'ai fourni des services de développement à divers clients de haut niveau, dont Thales DMS, Continental AG et MBDA. Mon rôle consistait à développer et mettre à jour des modèles de simulation, des systèmes embarqués et à collaborer avec des équipes pluridisciplinaires pour assurer la livraison réussie des projets.",
+      "summary": "En tant que Développeur Consultant chez Astek, j'ai fourni des services de développement à divers clients : Thales DMS, Continental AG et MBDA. J'ai pu développer et mettre à jour des modèles de simulation, des systèmes embarqués et à collaborer avec des équipes pluridisciplinaires pour assurer la livraison réussie des projets.",
       "highlights": [
-        "Fourniture de services de développement à des entreprises leaders dans les industries de la défense, de l'automobile et de l'aérospatiale",
+        "Fournir des services de développement à des entreprises leaders dans les industries de la défense, de l'automobile et de l'aérospatiale",
         "Développement et mise à jour de modèles de simulation et de systèmes embarqués en utilisant C++",
         "Collaboration avec des équipes pluridisciplinaires pour répondre aux demandes des clients et assurer le succès des projets",
         "Utilisation d'outils CI/CD comme Jenkins et Jira pour l'intégration et le déploiement continus",
@@ -185,8 +186,8 @@
         "Assurer la livraison réussie des projets grâce à une gestion de projet efficace et une collaboration"
       ],
       "achievements": [
-        "Livraison réussie de plusieurs projets pour des clients de haut niveau, améliorant leurs performances et la fiabilité des systèmes",
-        "Amélioration de la collaboration d'équipe et de la livraison des projets grâce à l'utilisation efficace des outils CI/CD et des revues par les pairs",
+        "Livraison réussie de plusieurs projets pour des clients améliorant leurs performances et la fiabilité des systèmes",
+        "Amélioration de la collaboration d'équipe, de mes compétences et de la livraison des projets grâce à l'utilisation efficace des outils CI/CD et des revues par les pairs",
         "Contribution à l'optimisation et à la modernisation des systèmes de simulation et des logiciels embarqués pour des applications critiques"
       ],
       "skills": [
@@ -398,31 +399,32 @@
     {
       "name": "Conférence LaboForum 2025",
       "isActive": true,
-      "description": "Participation à la conférence LaboForum 2025 'La place de l'IA dans les laboratoires', parlant de la place de l'IA dans l'industrie.",
+      "description": "Participation à la conférence LaboForum 2025 'La place de l'IA dans les laboratoires'.",
       "highlights": [
         "Réseautage avec des professionnels de l'industrie",
-        "Présentation de solutions IA"
+        "Discussion ouverte autour de l'IA dans les laboratoires et ses applications au sein de Wessling"
       ],
       "url": "https://youtu.be/gF5rwl-nCPg?si=bkB5lbRfNbdDANUQ"
     },
     {
-      "name": "Projet de Vision par Ordinateur",
+      "name": "Projet de Computer Vision",
       "isActive": false,
-      "description": "Un projet de vision par ordinateur qui détecte des objets dans des images en utilisant le Deep Learning à partir de zéro.",
+      "description": "Création d'un modèle de Computer Vision et deploiement de celui-ci sur le Cloud GCP, Azure et Localement.",
       "highlights": [
         "Conçu avec Python et PyTorch",
-        "Déploiement sur le cloud Azure",
+        "Déploiement sur le cloud Azure, GCP et localement",
         "Détection d'objets en temps réel"
       ],
       "url": ""
     },
     {
-      "name": "Déploiement de Modèles IA",
+      "name": "Dashboards de Visualisation de Données",
       "isActive": false,
-      "description": "Un projet axé sur le déploiement de modèles IA en utilisant Docker.",
+      "description": "Plusieurs projets de visualisation de données utilisant Streamlit et Plotly pour créer des tableaux de bord interactifs.",
       "highlights": [
-        "Conteneurisation de modèles IA pour un déploiement facile",
-        "Amélioration de la scalabilité et de la fiabilité"
+        "Création de tableaux de bord interactifs pour la visualisation de données",
+        "Conçu avec Streamlit et Plotly",
+        "Deploiement avec Docker"
       ],
       "url": ""
     },
@@ -438,12 +440,12 @@
       "url": ""
     },
     {
-      "name": "World of Warcraft - Serveur Privé",
+      "name": "World of Warcraft - Serveur Privé / Serveurs de jeux",
       "isActive": false,
-      "description": "Un serveur privé pour World of Warcraft, permettant aux joueurs de vivre le jeu pour développer mes compétences en C++ et en gestion de serveurs.",
+      "description": "Plusieurs petits serveurs de jeux, dont un serveur privé pour World of Warcraft.",
       "highlights": [
-        "Conçu avec C++ et MySQL",
-        "Utilisation de Docker pour le déploiement"
+        "C++ & SQL",
+        "Containerisation des serveurs avec Docker"
       ]
     }
   ]
