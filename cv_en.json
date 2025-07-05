@@ -1,0 +1,462 @@
+{
+  "basics": {
+    "name": "Charles ROY",
+    "label": "AI Engineer & Developer",
+    "image": "/me_avatar.jpg",
+    "email": "charlesroyluc@gmail.com",
+    "phone": "+33 6 44 23 88 80",
+    "url": "https://johndoe.dev",
+    "summary": "Artificial Intelligence Engineer with a strong background in Computer Vision, Machine Learning, and the development of innovative software solutions. Passionate about solving complex problems and optimizing processes through AI and cutting-edge technologies",
+    "theme": "dark",
+    "location": {
+      "city": "Roanne",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "charles-roy-829912315",
+        "url": "https://www.linkedin.com/in/charles-roy-829912315/"
+      },
+      {
+        "network": "GitHub",
+        "username": "LetMeFixThis4U",
+        "url": "https://github.com/LetMeFixThis4U"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Wessling part of ALS Global",
+      "position": "AI Engineer & Developer",
+      "location_type": "Remote",
+      "location": "Lyon, France",
+      "url": "https://fr.wessling-group.com/fr/",
+      "startDate": "2022-01-10",
+      "endDate": null,
+      "summary": "As an AI Engineer and Developer at Wessling (now ALS France), I was responsible for creating and energizing the Artificial Intelligence department. My main mission was to develop end-to-end solutions to meet the varied needs of our different services.",
+      "highlights": [
+        "Designed, developed, and deployed complete Artificial Intelligence solutions",
+        "Worked closely with various departments to understand their needs and challenges",
+        "Constantly sought to innovate and optimize processes and solutions using the latest technologies in AI and software development",
+        "Actively contributed to the creation and energizing of the AI department by providing technical expertise and training team members"
+      ],
+      "responsibilities": [
+        "Developing end-to-end AI solutions to address specific needs of services, including needs analysis, technical architecture design, AI model development, and integration into existing systems.",
+        "Collaborating with various departments to ensure developed solutions meet their expectations.",
+        "Innovating and optimizing processes and solutions using the latest technologies and methodologies in AI and software development.",
+        "Providing technical expertise, training team members, and participating in the definition of strategic objectives for the AI department."
+      ],
+      "achievements": [
+        "Successfully developed and deployed multiple AI solutions that improved service efficiency and quality. For example a model able to detect asbestos fibers in images.",
+        "Enhanced inter-department collaboration, leading to more effective and tailored AI solutions."
+      ],
+      "skills": [
+          "Computer Vision",
+          "Python",
+          "Streamlit",
+          "Microsoft Azure",
+          "Google Cloud Platform",
+          "PyTorch",
+          "TensorFlow",
+          "scikit-learn",
+          "Pandas",
+          "Django",
+          "Git",
+          "TypeScript",
+          "Shell",
+          "React.js",
+          "C++",
+          "Flutter/Dart",
+          "Node.js",
+          "Docker",
+          "Kubernetes",
+          "Linux",
+          "Nginx",
+          "SQL",
+          "PostGreSQL"
+      ]
+    },
+    {
+      "name": "AI Engineer Formation",
+      "position": "Trainee AI Engineer",
+      "location_type": "Remote",
+      "location": "France",
+      "url": "https://openclassrooms.com/fr/paths/2053-ai-engineer",
+      "startDate": "2021-08-01",
+      "endDate": "2022-11-01",
+      "summary": "Learned the foundation in developing and deploying end-to-end AI solutions. Completed the comprehensive AI Engineer path from OpenClassrooms, equipping me with advanced skills in machine learning, deep learning, and AI project management.",
+      "highlights": [
+        "Designed, developed, and deployed complete Artificial Intelligence solutions",
+        "Trained and fine-tuned various machine learning and deep learning models",
+        "Managed AI projects from conception to deployment, ensuring alignment with business objectives",
+        "Collaborated with cross-functional teams to integrate AI solutions into existing systems",
+        "Stayed abreast of the latest advancements in AI technologies and methodologies"
+      ],
+      "responsibilities": [
+        "Developing end-to-end AI solutions, including needs analysis, technical architecture design, model development, and system integration.",
+        "Training and fine-tuning machine learning and deep learning models to address specific business needs.",
+        "Managing AI projects, ensuring timely delivery and alignment with strategic objectives.",
+        "Collaborating with various departments to understand their challenges and develop tailored AI solutions.",
+        "Continuously innovating and optimizing AI processes using the latest technologies and best practices."
+      ],
+      "achievements": [
+        "Successfully completed the AI Engineer path from OpenClassrooms, gaining expertise in machine learning, deep learning, and AI project management.",
+        "Developed and deployed multiple AI solutions that improved operational efficiency and decision-making processes.",
+        "Enhanced inter-departmental collaboration, leading to more effective and tailored AI solutions.",
+        "Contributed to positioning the company as a leader in the use of AI in environmental analysis and consulting."
+      ],
+      "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "Keras",
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "Data Visualization",
+        "AI Project Management",
+        "Cloud Computing (Azure)",
+        "Docker",
+        "Git",
+        "SQL"
+      ]
+
+    },
+    {
+      "name": "Thales DMS",
+      "position": "Model and Simulation Developer",
+      "location_type": "On site",
+      "url" : "https://www.thalesgroup.com/fr/marches/defense-et-securite",
+      "location": "Elancourt, France",
+      "startDate": "2019-09-31",
+      "endDate": "2020-01-31",
+      "summary": "Focused on the development and updating of simulation models, collaborating with small teams to meet client demands and utilizing CI/CD tools for continuous integration and deployment.",
+      "highlights": [
+        "Developed and updated simulation models for the Rafale using C++",
+        "Collaborated with a small team to effectively respond to client demands",
+        "Utilized CI/CD tools like Jenkins and Jira for continuous integration and deployment",
+        "Discovered and corrected memory leaks, enhancing system performance",
+        "Created technical documentation to support development processes"
+      ],
+      "responsibilities": [
+        "Developing and updating simulation models using C++.",
+        "Collaborating with small teams to meet client demands and ensure project success.",
+        "Using CI/CD tools like Jenkins and Jira for continuous integration and deployment.",
+        "Creating technical documentation to support development and deployment processes.",
+        "Discovering and correcting memory leaks, adding new features, and improving system performance."
+      ],
+      "achievements": [
+        "Modernized the Rafale flight simulator, enhancing its performance and capabilities.",
+        "Successfully discovered and corrected critical memory leaks, significantly improving system stability and performance."
+      ],
+      "skills": [
+        "C++",
+        "GDB",
+        "Linux",
+        "Shell",
+        "Python",
+        "Git",
+        "Jenkins",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Astek",
+      "position": "Consultant Developer",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url" : "https://astekgroup.fr/",
+      "startDate": "2018-06-01",
+      "endDate": "2019-07-13",
+      "summary": "As a Consultant Developer at Astek, I provided expert development services to various high-profile clients, including Thales DMS, Continental AG, and MBDA. My role involved developing and updating simulation models, embedded systems, and collaborating with cross-functional teams to ensure the successful delivery of projects.",
+       "highlights": [
+        "Provided expert development services to leading companies in defense, automotive, and aerospace industries",
+        "Developed and updated simulation models and embedded systems using C++",
+        "Collaborated with cross-functional teams to meet client demands and ensure project success",
+        "Utilized CI/CD tools like Jenkins and Jira for continuous integration and deployment",
+        "Worked in dynamic project environments with peer reviews and continuous improvement"
+      ],
+      "responsibilities": [
+        "Developing and updating simulation models and embedded systems using C++ for clients in various industries",
+        "Collaborating with cross-functional teams to understand client needs and deliver tailored solutions",
+        "Using CI/CD tools like Jenkins and Jira for continuous integration and deployment",
+        "Participating in peer reviews and contributing to the improvement of coding standards",
+        "Ensuring the successful delivery of projects through effective project management and collaboration"
+      ],
+      "achievements": [
+        "Successfully delivered multiple projects for high-profile clients, enhancing their system performance and reliability",
+        "Improved team collaboration and project delivery through effective use of CI/CD tools and peer reviews",
+        "Contributed to the optimization and modernization of simulation systems and embedded software for critical applications"
+      ],
+      "skills": [
+        "C++",
+        "GDB",
+        "Linux",
+        "Shell",
+        "Python",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "CI/CD",
+        "Agile Methodologies",
+        "Embedded Systems",
+        "Simulation Models",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Scality",
+      "position": "Hackathon Participant",
+      "location_type": "On site",
+      "location": "Paris, France",
+      "url" : "https://astekgroup.fr/",
+      "startDate": "2015-07-01",
+      "endDate": "2015-08-13",
+      "summary": "Participated in a hackathon organized by Scality to evaluate the performance of their product. Contributed to a comparative evaluation project of Scality's RING object storage technology against a competitor.",
+       "highlights": [
+        "Participated in a hackathon to evaluate the performance of Scality's RING object storage technology",
+        "Co-managed and coordinated the project with another collaborator, following the Scrum methodology",
+        "Presented the project specifications and led working sessions on various aspects of object storage",
+        "Contributed to technical discussions and decisions on topics such as convergent encryption and API compatibility",
+        "Participated in demonstrations of developed features and comparative evaluation results"
+      ],
+      "responsibilities": [
+        "Evaluating the performance of Scality's RING object storage technology against a competitor",
+        "Co-managing and coordinating the project using the Scrum methodology",
+        "Presenting the project specifications",
+        "Contributing to technical discussions and decisions",
+        "Participating in the demonstration of developed features and results"
+      ],
+      "achievements": [
+       "Successfully completed a proof of concept (POC) and met the expectations of Scality",
+        "Enhanced team collaboration and project delivery through effective use of Scrum methodology",
+        "Contributed to the evaluation and improvement of Scality's object storage technology"
+      ],
+      "skills": [
+        "Node.Js",
+        "Git",
+        "RING",
+        "Rest API",
+        "Git",
+        "Scrum"
+      ]
+    }
+  ],
+  "volunteer": [
+
+  ],
+  "education": [
+    {
+      "institution": "OpenClassrooms & CentraleSupélec",
+      "url": "https://openclassrooms.com/fr/paths/2053-ai-engineer",
+      "area": "AI",
+      "studyType": "Master",
+      "startDate": "2021-08-01",
+      "endDate": "2022-11-01"
+    },
+    {
+      "institution": "42 Paris",
+      "url": "https://42.fr/en/homepage/",
+      "area": "Software Engineering",
+      "studyType": "Master",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01"
+    }
+  ],
+  "certificates": [
+
+  ],
+   "skills": [
+   
+    {
+      "name": "Python",
+      "level": "expert",
+      "keywords": ["Programming skills", "AI Development", "Data Analysis"]
+    },
+    {
+      "name": "TensorFlow",
+      "level": "expert",
+      "keywords": ["Deep Learning", "Machine Learning", "AI Development"]
+    },
+    {
+      "name": "Pytorch",
+      "level": "expert",
+      "keywords": ["Deep Learning", "Machine Learning", "AI Development"]
+    },
+    {
+      "name": "ScikitLearn",
+      "level": "expert",
+      "keywords": ["Machine Learning", "Data Analysis", "AI Development"]
+    },
+    {
+      "name": "MLOps",
+      "level": "intermediate",
+      "keywords": ["Model Deployment", "CI/CD", "AI Operations"]
+    },
+    {
+      "name": "DevOps",
+      "level": "intermediate",
+      "keywords": ["Nginx", "Linux", "Server Management"]
+    },
+    {
+      "name": "Git",
+      "level": "expert",
+      "keywords": ["Version Control", "Collaboration", "CI/CD"]
+    },
+    {
+      "name": "Linux",
+      "level": "expert",
+      "keywords": ["Operating Systems", "Shell Scripting", "System Administration"]
+    },
+    {
+      "name": "Shell",
+      "level": "expert",
+      "keywords": ["Scripting", "Automation", "System Administration"]
+    },
+    {
+      "name": "Docker",
+      "level": "intermediate",
+      "keywords": ["Containerization", "DevOps", "Deployment"]
+    },
+    {
+      "name": "SQL",
+      "level": "intermediate",
+      "keywords": ["Database Management", "Data Analysis", "Querying"]
+    },
+    {
+      "name": "Cloud",
+      "level": "intermediate",
+      "keywords": ["AWS", "Azure", "GCP", "Deployment"]
+    },
+    {
+      "name": "Django",
+      "level": "intermediate",
+      "keywords": ["Web Development", "Python", "Backend Development"]
+    },
+    {
+      "name": "Flutter",
+      "level": "intermediate",
+      "keywords": ["Mobile Development", "Cross-Platform", "UI/UX Design"]
+    },
+    {
+      "name": "C++",
+      "level": "intermediate",
+      "keywords": ["Systems Programming", "Performance Optimization", "Simulation"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "intermediate",
+      "keywords": ["Web Development", "Node.js", "React.js"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "intermediate",
+      "keywords": ["Web Development", "Node.js", "React.js"]
+    },
+    {
+      "name": "HTML",
+      "level": "intermediate",
+      "keywords": ["Web Development", "Frontend Development"]
+    },
+    {
+      "name": "CSS",
+      "level": "intermediate",
+      "keywords": ["Web Development", "Frontend Development", "Responsive Design"]
+    },
+    {
+      "name": "React",
+      "level": "expert",
+      "keywords": ["Frontend Development", "Web Development", "UI/UX Design"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "My Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website based on a template to showcase my projects and skills.",
+      "highlights": [
+        "Built with React and Tailwind CSS",
+        "Include FR - EN translations"
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "LaboForum 2025 Conference",
+      "isActive": true,
+      "description": "participate in the LaboForum 2025 conference 'La place de l'I.A. dans les laboratoires', talking about the place of the AI in the industry.",
+      "highlights": [
+        "Networking with industry professionals",
+        "Showcasing AI solutions"
+      ],
+      "url": "https://youtu.be/gF5rwl-nCPg?si=bkB5lbRfNbdDANUQ"
+    },
+    {
+      "name": "Computer Vision Project",
+      "isActive": false,
+      "description": "A computer vision project that detects objects in images using deep learning from scratch.",
+      "highlights": [
+        "Built with python and pytorch",
+        "Azure cloud deployment",
+        "Real-time object detection"
+      ],
+      "url": ""
+    },
+        {
+      "name": "AI Model Deployment",
+      "isActive": false,
+      "description": "A project focused on deploying AI models using Docker.",
+      "highlights": [
+        "Containerized AI models for easy deployment",
+        "Tried to Improved scalability and reliability"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Discord Bot",
+      "isActive": false,
+      "description": "Simple Discord bot that provides various utilities and fun features.",
+      "highlights": [
+        "Built with Node.js and Discord.js",
+        "Supports moderation commands",
+        "include command to register users in a database"
+      ],
+      "url": ""
+    },
+
+    {
+      "name": "World of Warcraft - Private Server",
+      "isActive": false,
+      "description": "A private server for World of Warcraft, allowing players to experience the game to develop my skills in C++ and server management.",
+      "highlights": [
+        "Build with C++ and MySQL",
+        "Use docker for deployment"
+      ]
+    }
+  ]
+}

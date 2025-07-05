@@ -1,0 +1,455 @@
+{
+  "basics": {
+    "name": "Charles ROY",
+    "label": "Ingénieur IA & Développeur",
+    "image": "/me_avatar.jpg",
+    "email": "charlesroyluc@gmail.com",
+    "phone": "+33 6 44 23 88 80",
+    "url": "https://johndoe.dev",
+    "summary": "Ingénieur en Intelligence Artificielle avec une solide expérience en Vision par Ordinateur, en Apprentissage Automatique et en développement de solutions logicielles innovantes. Passionné par la résolution de problèmes complexes et l'optimisation des processus grâce à l'IA et aux technologies de pointe.",
+    "theme": "dark",
+    "location": {
+      "city": "Roanne",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "charles-roy-829912315",
+        "url": "https://www.linkedin.com/in/charles-roy-829912315/"
+      },
+      {
+        "network": "GitHub",
+        "username": "LetMeFixThis4U",
+        "url": "https://github.com/LetMeFixThis4U"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Wessling, partie d'ALS Global",
+      "position": "Ingénieur IA & Développeur",
+      "location_type": "Télétravail",
+      "location": "Lyon, France",
+      "url": "https://fr.wessling-group.com/fr/",
+      "startDate": "2022-01-10",
+      "endDate": null,
+      "summary": "En tant qu'Ingénieur IA et Développeur chez Wessling (maintenant ALS France), j'étais responsable de la création et de la dynamisation du département Intelligence Artificielle. Ma mission principale était de développer des solutions de bout en bout pour répondre aux besoins variés de nos différents services.",
+      "highlights": [
+        "Conception, développement et déploiement de solutions complètes d'Intelligence Artificielle",
+        "Collaboration étroite avec divers départements pour comprendre leurs besoins et défis",
+        "Recherche constante d'innovation et d'optimisation des processus et solutions en utilisant les dernières technologies en IA et développement logiciel",
+        "Contribution active à la création et à la dynamisation du département IA en fournissant une expertise technique et en formant les membres de l'équipe"
+      ],
+      "responsibilities": [
+        "Développement de solutions IA de bout en bout pour répondre aux besoins spécifiques des services, incluant l'analyse des besoins, la conception de l'architecture technique, le développement de modèles IA et l'intégration dans les systèmes existants.",
+        "Collaboration avec divers départements pour garantir que les solutions développées répondent à leurs attentes.",
+        "Innovation et optimisation des processus et solutions en utilisant les dernières technologies et méthodologies en IA et développement logiciel.",
+        "Fourniture d'une expertise technique, formation des membres de l'équipe et participation à la définition des objectifs stratégiques pour le département IA."
+      ],
+      "achievements": [
+        "Développement et déploiement réussis de multiples solutions IA qui ont amélioré l'efficacité et la qualité des services. Par exemple, un modèle capable de détecter les fibres d'amiante dans les images.",
+        "Amélioration de la collaboration inter-départementale, conduisant à des solutions IA plus efficaces et sur mesure."
+      ],
+      "skills": [
+        "Vision par Ordinateur",
+        "Python",
+        "Streamlit",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "Pandas",
+        "Django",
+        "Git",
+        "TypeScript",
+        "Shell",
+        "React.js",
+        "C++",
+        "Flutter/Dart",
+        "Node.js",
+        "Docker",
+        "Kubernetes",
+        "Linux",
+        "Nginx",
+        "SQL",
+        "PostGreSQL"
+      ]
+    },
+    {
+      "name": "Formation Ingénieur IA",
+      "position": "Ingénieur IA en Formation",
+      "location_type": "Télétravail",
+      "location": "France",
+      "url": "https://openclassrooms.com/fr/paths/2053-ai-engineer",
+      "startDate": "2021-08-01",
+      "endDate": "2022-11-01",
+      "summary": "J'ai appris les bases du développement et du déploiement de solutions IA de bout en bout. J'ai complété le parcours complet d'Ingénieur IA d'OpenClassrooms, ce qui m'a équipé de compétences avancées en apprentissage automatique, en apprentissage profond et en gestion de projets IA.",
+      "highlights": [
+        "Conception, développement et déploiement de solutions complètes d'Intelligence Artificielle",
+        "Formation et ajustement de divers modèles d'apprentissage automatique et d'apprentissage profond",
+        "Gestion de projets IA de la conception au déploiement, en garantissant l'alignement avec les objectifs commerciaux",
+        "Collaboration avec des équipes pluridisciplinaires pour intégrer des solutions IA dans les systèmes existants",
+        "Reste à l'affût des dernières avancées en technologies et méthodologies IA"
+      ],
+      "responsibilities": [
+        "Développement de solutions IA de bout en bout, incluant l'analyse des besoins, la conception de l'architecture technique, le développement de modèles et l'intégration des systèmes.",
+        "Formation et ajustement de modèles d'apprentissage automatique et d'apprentissage profond pour répondre à des besoins commerciaux spécifiques.",
+        "Gestion de projets IA, garantissant une livraison en temps voulu et un alignement avec les objectifs stratégiques.",
+        "Collaboration avec divers départements pour comprendre leurs défis et développer des solutions IA sur mesure.",
+        "Innovation et optimisation continues des processus IA en utilisant les dernières technologies et meilleures pratiques."
+      ],
+      "achievements": [
+        "Réussite du parcours Ingénieur IA d'OpenClassrooms, acquérant une expertise en apprentissage automatique, en apprentissage profond et en gestion de projets IA.",
+        "Développement et déploiement de multiples solutions IA qui ont amélioré l'efficacité opérationnelle et les processus décisionnels.",
+        "Amélioration de la collaboration inter-départementale, conduisant à des solutions IA plus efficaces et sur mesure.",
+        "Contribution à positionner l'entreprise comme un leader dans l'utilisation de l'IA dans l'analyse environnementale et le conseil."
+      ],
+      "skills": [
+        "Apprentissage Automatique",
+        "Apprentissage Profond",
+        "Traitement du Langage Naturel",
+        "Vision par Ordinateur",
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "scikit-learn",
+        "Keras",
+        "Pandas",
+        "NumPy",
+        "Analyse de Données",
+        "Visualisation de Données",
+        "Gestion de Projets IA",
+        "Informatique en Nuage (Azure)",
+        "Docker",
+        "Git",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Thales DMS",
+      "position": "Développeur de Modèles et Simulations",
+      "location_type": "Sur site",
+      "url": "https://www.thalesgroup.com/fr/marches/defense-et-securite",
+      "location": "Elancourt, France",
+      "startDate": "2019-09-31",
+      "endDate": "2020-01-31",
+      "summary": "Concentration sur le développement et la mise à jour de modèles de simulation, collaboration avec de petites équipes pour répondre aux demandes des clients et utilisation d'outils CI/CD pour l'intégration et le déploiement continus.",
+      "highlights": [
+        "Développement et mise à jour de modèles de simulation pour le Rafale en utilisant C++",
+        "Collaboration avec une petite équipe pour répondre efficacement aux demandes des clients",
+        "Utilisation d'outils CI/CD comme Jenkins et Jira pour l'intégration et le déploiement continus",
+        "Découverte et correction de fuites de mémoire, améliorant les performances du système",
+        "Création de documentation technique pour soutenir les processus de développement"
+      ],
+      "responsibilities": [
+        "Développement et mise à jour de modèles de simulation en utilisant C++.",
+        "Collaboration avec de petites équipes pour répondre aux demandes des clients et assurer le succès du projet.",
+        "Utilisation d'outils CI/CD comme Jenkins et Jira pour l'intégration et le déploiement continus.",
+        "Création de documentation technique pour soutenir les processus de développement et de déploiement.",
+        "Découverte et correction de fuites de mémoire, ajout de nouvelles fonctionnalités et amélioration des performances du système."
+      ],
+      "achievements": [
+        "Modernisation du simulateur de vol du Rafale, améliorant ses performances et ses capacités.",
+        "Découverte et correction réussies de fuites de mémoire critiques, améliorant significativement la stabilité et les performances du système."
+      ],
+      "skills": [
+        "C++",
+        "GDB",
+        "Linux",
+        "Shell",
+        "Python",
+        "Git",
+        "Jenkins",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Astek",
+      "position": "Développeur Consultant",
+      "location_type": "Sur site",
+      "location": "Paris, France",
+      "url": "https://astekgroup.fr/",
+      "startDate": "2018-06-01",
+      "endDate": "2019-07-13",
+      "summary": "En tant que Développeur Consultant chez Astek, j'ai fourni des services de développement experts à divers clients de haut niveau, dont Thales DMS, Continental AG et MBDA. Mon rôle consistait à développer et mettre à jour des modèles de simulation, des systèmes embarqués et à collaborer avec des équipes pluridisciplinaires pour assurer la livraison réussie des projets.",
+      "highlights": [
+        "Fourniture de services de développement experts à des entreprises leaders dans les industries de la défense, de l'automobile et de l'aérospatiale",
+        "Développement et mise à jour de modèles de simulation et de systèmes embarqués en utilisant C++",
+        "Collaboration avec des équipes pluridisciplinaires pour répondre aux demandes des clients et assurer le succès des projets",
+        "Utilisation d'outils CI/CD comme Jenkins et Jira pour l'intégration et le déploiement continus",
+        "Travail dans des environnements de projet dynamiques avec des revues par les pairs et une amélioration continue"
+      ],
+      "responsibilities": [
+        "Développement et mise à jour de modèles de simulation et de systèmes embarqués en utilisant C++ pour des clients dans divers secteurs",
+        "Collaboration avec des équipes pluridisciplinaires pour comprendre les besoins des clients et fournir des solutions sur mesure",
+        "Utilisation d'outils CI/CD comme Jenkins et Jira pour l'intégration et le déploiement continus",
+        "Participation à des revues par les pairs et contribution à l'amélioration des normes de codage",
+        "Assurer la livraison réussie des projets grâce à une gestion de projet efficace et une collaboration"
+      ],
+      "achievements": [
+        "Livraison réussie de plusieurs projets pour des clients de haut niveau, améliorant leurs performances et la fiabilité des systèmes",
+        "Amélioration de la collaboration d'équipe et de la livraison des projets grâce à l'utilisation efficace des outils CI/CD et des revues par les pairs",
+        "Contribution à l'optimisation et à la modernisation des systèmes de simulation et des logiciels embarqués pour des applications critiques"
+      ],
+      "skills": [
+        "C++",
+        "GDB",
+        "Linux",
+        "Shell",
+        "Python",
+        "Git",
+        "Jenkins",
+        "Docker",
+        "CI/CD",
+        "Méthodologies Agile",
+        "Systèmes Embarqués",
+        "Modèles de Simulation",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Scality",
+      "position": "Participant au Hackathon",
+      "location_type": "Sur site",
+      "location": "Paris, France",
+      "url": "https://astekgroup.fr/",
+      "startDate": "2015-07-01",
+      "endDate": "2015-08-13",
+      "summary": "Participation à un hackathon organisé par Scality pour évaluer les performances de leur produit. Contribution à un projet d'évaluation comparative de la technologie de stockage objet RING de Scality par rapport à un concurrent.",
+      "highlights": [
+        "Participation à un hackathon pour évaluer les performances de la technologie de stockage objet RING de Scality",
+        "Co-gestion et coordination du projet avec un autre collaborateur, en suivant la méthodologie Scrum",
+        "Présentation des spécifications du projet et animation de sessions de travail sur divers aspects du stockage objet",
+        "Contribution aux discussions et décisions techniques sur des sujets tels que le chiffrement convergent et la compatibilité des API",
+        "Participation aux démonstrations des fonctionnalités développées et des résultats de l'évaluation comparative"
+      ],
+      "responsibilities": [
+        "Évaluation des performances de la technologie de stockage objet RING de Scality par rapport à un concurrent",
+        "Co-gestion et coordination du projet en utilisant la méthodologie Scrum",
+        "Présentation des spécifications du projet",
+        "Contribution aux discussions et décisions techniques",
+        "Participation aux démonstrations des fonctionnalités développées et des résultats"
+      ],
+      "achievements": [
+        "Réalisation réussie d'une preuve de concept (POC) et satisfaction des attentes de Scality",
+        "Amélioration de la collaboration d'équipe et de la livraison du projet grâce à l'utilisation efficace de la méthodologie Scrum",
+        "Contribution à l'évaluation et à l'amélioration de la technologie de stockage objet de Scality"
+      ],
+      "skills": [
+        "Node.js",
+        "Git",
+        "RING",
+        "API Rest",
+        "Git",
+        "Scrum"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "OpenClassrooms & CentraleSupélec",
+      "url": "https://openclassrooms.com/fr/paths/2053-ai-engineer",
+      "area": "IA",
+      "studyType": "Master",
+      "startDate": "2021-08-01",
+      "endDate": "2022-11-01"
+    },
+    {
+      "institution": "42 Paris",
+      "url": "https://42.fr/en/homepage/",
+      "area": "Ingénierie Logicielle",
+      "studyType": "Master",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01"
+    }
+  ],
+  "certificates": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "expert",
+      "keywords": ["Compétences en programmation", "Développement IA", "Analyse de données"]
+    },
+    {
+      "name": "TensorFlow",
+      "level": "expert",
+      "keywords": ["Apprentissage profond", "Apprentissage automatique", "Développement IA"]
+    },
+    {
+      "name": "PyTorch",
+      "level": "expert",
+      "keywords": ["Apprentissage profond", "Apprentissage automatique", "Développement IA"]
+    },
+    {
+      "name": "ScikitLearn",
+      "level": "expert",
+      "keywords": ["Apprentissage automatique", "Analyse de données", "Développement IA"]
+    },
+    {
+      "name": "MLOps",
+      "level": "intermédiaire",
+      "keywords": ["Déploiement de modèles", "CI/CD", "Opérations IA"]
+    },
+    {
+      "name": "DevOps",
+      "level": "intermédiaire",
+      "keywords": ["Nginx", "Linux", "Gestion de serveurs"]
+    },
+    {
+      "name": "Git",
+      "level": "expert",
+      "keywords": ["Contrôle de version", "Collaboration", "CI/CD"]
+    },
+    {
+      "name": "Linux",
+      "level": "expert",
+      "keywords": ["Systèmes d'exploitation", "Scripting Shell", "Administration système"]
+    },
+    {
+      "name": "Shell",
+      "level": "expert",
+      "keywords": ["Scripting", "Automatisation", "Administration système"]
+    },
+    {
+      "name": "Docker",
+      "level": "intermédiaire",
+      "keywords": ["Conteneurisation", "DevOps", "Déploiement"]
+    },
+    {
+      "name": "SQL",
+      "level": "intermédiaire",
+      "keywords": ["Gestion de bases de données", "Analyse de données", "Requêtage"]
+    },
+    {
+      "name": "Cloud",
+      "level": "intermédiaire",
+      "keywords": ["AWS", "Azure", "GCP", "Déploiement"]
+    },
+    {
+      "name": "Django",
+      "level": "intermédiaire",
+      "keywords": ["Développement Web", "Python", "Développement Backend"]
+    },
+    {
+      "name": "Flutter",
+      "level": "intermédiaire",
+      "keywords": ["Développement Mobile", "Multiplateforme", "Conception UI/UX"]
+    },
+    {
+      "name": "C++",
+      "level": "intermédiaire",
+      "keywords": ["Programmation Système", "Optimisation des Performances", "Simulation"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "intermédiaire",
+      "keywords": ["Développement Web", "Node.js", "React.js"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "intermédiaire",
+      "keywords": ["Développement Web", "Node.js", "React.js"]
+    },
+    {
+      "name": "HTML",
+      "level": "intermédiaire",
+      "keywords": ["Développement Web", "Développement Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "intermédiaire",
+      "keywords": ["Développement Web", "Développement Frontend", "Conception Réactive"]
+    },
+    {
+      "name": "React",
+      "level": "expert",
+      "keywords": ["Développement Frontend", "Développement Web", "Conception UI/UX"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue maternelle"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Maîtrise professionnelle"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technologie",
+      "keywords": [
+        "IA",
+        "Blockchain"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mon Portfolio Personnel",
+      "isActive": false,
+      "description": "Un site web de portfolio personnel basé sur un modèle pour présenter mes projets et compétences.",
+      "highlights": [
+        "Conçu avec React et Tailwind CSS",
+        "Deployé sur GitHub Pages"
+      ],
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Conférence LaboForum 2025",
+      "isActive": true,
+      "description": "Participation à la conférence LaboForum 2025 'La place de l'IA dans les laboratoires', parlant de la place de l'IA dans l'industrie.",
+      "highlights": [
+        "Réseautage avec des professionnels de l'industrie",
+        "Présentation de solutions IA"
+      ],
+      "url": "https://youtu.be/gF5rwl-nCPg?si=bkB5lbRfNbdDANUQ"
+    },
+    {
+      "name": "Projet de Vision par Ordinateur",
+      "isActive": false,
+      "description": "Un projet de vision par ordinateur qui détecte des objets dans des images en utilisant l'apprentissage profond à partir de zéro.",
+      "highlights": [
+        "Conçu avec Python et PyTorch",
+        "Déploiement sur le cloud Azure",
+        "Détection d'objets en temps réel"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Déploiement de Modèles IA",
+      "isActive": false,
+      "description": "Un projet axé sur le déploiement de modèles IA en utilisant Docker.",
+      "highlights": [
+        "Conteneurisation de modèles IA pour un déploiement facile",
+        "Amélioration de la scalabilité et de la fiabilité"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Bot Discord",
+      "isActive": false,
+      "description": "Un bot Discord simple qui fournit diverses utilités et fonctionnalités amusantes.",
+      "highlights": [
+        "Conçu avec Node.js et Discord.js",
+        "Prise en charge des commandes de modération",
+        "Inclut une commande pour enregistrer les utilisateurs dans une base de données"
+      ],
+      "url": ""
+    },
+    {
+      "name": "World of Warcraft - Serveur Privé",
+      "isActive": false,
+      "description": "Un serveur privé pour World of Warcraft, permettant aux joueurs de vivre le jeu pour développer mes compétences en C++ et en gestion de serveurs.",
+      "highlights": [
+        "Conçu avec C++ et MySQL",
+        "Utilisation de Docker pour le déploiement"
+      ]
+    }
+  ]
+}
