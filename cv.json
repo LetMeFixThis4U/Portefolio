@@ -5,8 +5,8 @@
     "image": "me_avatar.jpg",
     "email": "charlesroyluc@gmail.com",
     "phone": "+33 6 44 23 88 80",
-    "url": "https://johndoe.dev",
-    "summary": "Ingénieur en Intelligence Artificielle avec une solide expérience en Vision par Ordinateur, en Apprentissage Automatique et en développement de solutions logicielles innovantes. Passionné par la résolution de problèmes complexes et l'optimisation des processus grâce à l'IA et aux technologies de pointe.",
+    "url": "https://letmefixthis4u.github.io/Portefolio/",
+    "summary": "Ingénieur en Intelligence Artificielle avec une solide expérience en Computer Vision (Vision par Ordinateur), en Apprentissage Automatique et en développement de solutions logicielles innovantes. Passionné par la résolution de problèmes complexes et l'optimisation des processus grâce à l'IA et aux technologies de pointe.",
     "theme": "dark",
     "location": {
       "city": "Roanne",
@@ -27,14 +27,14 @@
   },
   "work": [
     {
-      "name": "Wessling, partie d'ALS Global",
+      "name": "Wessling, Part of ALS Global",
       "position": "Ingénieur IA & Développeur",
       "location_type": "Télétravail",
       "location": "Lyon, France",
       "url": "https://fr.wessling-group.com/fr/",
       "startDate": "2022-01-10",
       "endDate": null,
-      "summary": "En tant qu'Ingénieur IA et Développeur chez Wessling (maintenant ALS France), j'étais responsable de la création et de la dynamisation du département Intelligence Artificielle. Ma mission principale était de développer des solutions de bout en bout pour répondre aux besoins variés de nos différents services.",
+      "summary": "En tant qu'Ingénieur IA et Développeur chez Wessling (maintenant ALS France), je suis responsable de la création et de la dynamisation du département Intelligence Artificielle. Ma mission principale est de développer des solutions de bout en bout pour répondre aux besoins variés de nos différents services.",
       "highlights": [
         "Conception, développement et déploiement de solutions complètes d'Intelligence Artificielle",
         "Collaboration étroite avec divers départements pour comprendre leurs besoins et défis",
@@ -52,7 +52,7 @@
         "Amélioration de la collaboration inter-départementale, conduisant à des solutions IA plus efficaces et sur mesure."
       ],
       "skills": [
-        "Vision par Ordinateur",
+        "Computer Vision (Vision par Ordinateur)",
         "Python",
         "Streamlit",
         "Microsoft Azure",
@@ -85,43 +85,41 @@
       "url": "https://openclassrooms.com/fr/paths/2053-ai-engineer",
       "startDate": "2021-08-01",
       "endDate": "2022-11-01",
-      "summary": "J'ai appris les bases du développement et du déploiement de solutions IA de bout en bout. J'ai complété le parcours complet d'Ingénieur IA d'OpenClassrooms, ce qui m'a équipé de compétences avancées en apprentissage automatique, en apprentissage profond et en gestion de projets IA.",
+      "summary": "Découverte du b.a.-ba. d'un Ingénieur IA au travers du parcours proposé par OpenClassrooms, ce qui m'a équipé de compétences avancées en apprentissage automatique, Data Sciences, Deep learning et en gestion de projets IA.",
       "highlights": [
         "Conception, développement et déploiement de solutions complètes d'Intelligence Artificielle",
-        "Formation et ajustement de divers modèles d'apprentissage automatique et d'apprentissage profond",
-        "Gestion de projets IA de la conception au déploiement, en garantissant l'alignement avec les objectifs commerciaux",
+        "Création et ajustement de divers modèles (Machine Learning, Deep Learning) pour répondre à des besoins spécifiques",
+        "Gestion de projets IA de la conception au déploiement, en garantissant l'alignement avec les objectifs du projet",
         "Collaboration avec des équipes pluridisciplinaires pour intégrer des solutions IA dans les systèmes existants",
         "Reste à l'affût des dernières avancées en technologies et méthodologies IA"
       ],
       "responsibilities": [
         "Développement de solutions IA de bout en bout, incluant l'analyse des besoins, la conception de l'architecture technique, le développement de modèles et l'intégration des systèmes.",
-        "Formation et ajustement de modèles d'apprentissage automatique et d'apprentissage profond pour répondre à des besoins commerciaux spécifiques.",
+        "Formation et ajustement de modèles d'apprentissage automatique et Deep learning pour répondre à des besoins spécifiques.",
         "Gestion de projets IA, garantissant une livraison en temps voulu et un alignement avec les objectifs stratégiques.",
-        "Collaboration avec divers départements pour comprendre leurs défis et développer des solutions IA sur mesure.",
+        "Projets en relation avec divers départements pour comprendre leurs défis et développer des solutions IA sur mesure.",
         "Innovation et optimisation continues des processus IA en utilisant les dernières technologies et meilleures pratiques."
       ],
       "achievements": [
-        "Réussite du parcours Ingénieur IA d'OpenClassrooms, acquérant une expertise en apprentissage automatique, en apprentissage profond et en gestion de projets IA.",
-        "Développement et déploiement de multiples solutions IA qui ont amélioré l'efficacité opérationnelle et les processus décisionnels.",
-        "Amélioration de la collaboration inter-départementale, conduisant à des solutions IA plus efficaces et sur mesure.",
-        "Contribution à positionner l'entreprise comme un leader dans l'utilisation de l'IA dans l'analyse environnementale et le conseil."
+        "Réussite du parcours Ingénieur IA d'OpenClassrooms, acquérant une expertise en IA",
+        "Développement et déploiement de multiples solutions IA qui ont permit la résolution de problèmes complexes."
       ],
       "skills": [
-        "Apprentissage Automatique",
-        "Apprentissage Profond",
-        "Traitement du Langage Naturel",
-        "Vision par Ordinateur",
+        "Machine learning",
+        "Deep learning",
+        "NLP (Traitement du Langage Naturel)",
+        "Computer Vision (Vision par Ordinateur)",
         "Python",
         "TensorFlow",
         "PyTorch",
-        "scikit-learn",
+        "Scikit-learn",
         "Keras",
         "Pandas",
         "NumPy",
-        "Analyse de Données",
+        "Exploratory data Analysis (EDA)",
         "Visualisation de Données",
         "Gestion de Projets IA",
-        "Informatique en Nuage (Azure)",
+        "Azure Cloud",
         "Docker",
         "Git",
         "SQL"
@@ -129,29 +127,27 @@
     },
     {
       "name": "Thales DMS",
-      "position": "Développeur de Modèles et Simulations",
+      "position": "Développeur Modèles et Simulations",
       "location_type": "Sur site",
       "url": "https://www.thalesgroup.com/fr/marches/defense-et-securite",
       "location": "Elancourt, France",
       "startDate": "2019-09-31",
       "endDate": "2020-01-31",
-      "summary": "Concentration sur le développement et la mise à jour de modèles de simulation, collaboration avec de petites équipes pour répondre aux demandes des clients et utilisation d'outils CI/CD pour l'intégration et le déploiement continus.",
+      "summary": "Concentration sur le développement et la mise à jour de modèles de simulation, collaboration avec de petites équipes pour répondre aux demandes des clients.",
       "highlights": [
         "Développement et mise à jour de modèles de simulation pour le Rafale en utilisant C++",
         "Collaboration avec une petite équipe pour répondre efficacement aux demandes des clients",
-        "Utilisation d'outils CI/CD comme Jenkins et Jira pour l'intégration et le déploiement continus",
         "Découverte et correction de fuites de mémoire, améliorant les performances du système",
         "Création de documentation technique pour soutenir les processus de développement"
       ],
       "responsibilities": [
         "Développement et mise à jour de modèles de simulation en utilisant C++.",
         "Collaboration avec de petites équipes pour répondre aux demandes des clients et assurer le succès du projet.",
-        "Utilisation d'outils CI/CD comme Jenkins et Jira pour l'intégration et le déploiement continus.",
         "Création de documentation technique pour soutenir les processus de développement et de déploiement.",
         "Découverte et correction de fuites de mémoire, ajout de nouvelles fonctionnalités et amélioration des performances du système."
       ],
       "achievements": [
-        "Modernisation du simulateur de vol du Rafale, améliorant ses performances et ses capacités.",
+        "Modernisation du simulateur du Rafale",
         "Découverte et correction réussies de fuites de mémoire critiques, améliorant significativement la stabilité et les performances du système."
       ],
       "skills": [
@@ -173,9 +169,9 @@
       "url": "https://astekgroup.fr/",
       "startDate": "2018-06-01",
       "endDate": "2019-07-13",
-      "summary": "En tant que Développeur Consultant chez Astek, j'ai fourni des services de développement experts à divers clients de haut niveau, dont Thales DMS, Continental AG et MBDA. Mon rôle consistait à développer et mettre à jour des modèles de simulation, des systèmes embarqués et à collaborer avec des équipes pluridisciplinaires pour assurer la livraison réussie des projets.",
+      "summary": "En tant que Développeur Consultant chez Astek, j'ai fourni des services de développement à divers clients de haut niveau, dont Thales DMS, Continental AG et MBDA. Mon rôle consistait à développer et mettre à jour des modèles de simulation, des systèmes embarqués et à collaborer avec des équipes pluridisciplinaires pour assurer la livraison réussie des projets.",
       "highlights": [
-        "Fourniture de services de développement experts à des entreprises leaders dans les industries de la défense, de l'automobile et de l'aérospatiale",
+        "Fourniture de services de développement à des entreprises leaders dans les industries de la défense, de l'automobile et de l'aérospatiale",
         "Développement et mise à jour de modèles de simulation et de systèmes embarqués en utilisant C++",
         "Collaboration avec des équipes pluridisciplinaires pour répondre aux demandes des clients et assurer le succès des projets",
         "Utilisation d'outils CI/CD comme Jenkins et Jira pour l'intégration et le déploiement continus",
@@ -217,7 +213,7 @@
       "url": "https://astekgroup.fr/",
       "startDate": "2015-07-01",
       "endDate": "2015-08-13",
-      "summary": "Participation à un hackathon organisé par Scality pour évaluer les performances de leur produit. Contribution à un projet d'évaluation comparative de la technologie de stockage objet RING de Scality par rapport à un concurrent.",
+      "summary": "Participation à un hackathon organisé par Scality pour évaluer/comparer les performances de leur produit. Contribution à un projet d'évaluation comparative de la technologie de stockage objet RING de Scality par rapport à un concurrent avec 25 élèves de l'école 42.",
       "highlights": [
         "Participation à un hackathon pour évaluer les performances de la technologie de stockage objet RING de Scality",
         "Co-gestion et coordination du projet avec un autre collaborateur, en suivant la méthodologie Scrum",
@@ -242,7 +238,6 @@
         "Git",
         "RING",
         "API Rest",
-        "Git",
         "Scrum"
       ]
     }
@@ -276,12 +271,12 @@
     {
       "name": "TensorFlow",
       "level": "expert",
-      "keywords": ["Apprentissage profond", "Apprentissage automatique", "Développement IA"]
+      "keywords": ["Deep learning", "Apprentissage automatique", "Développement IA"]
     },
     {
       "name": "PyTorch",
       "level": "expert",
-      "keywords": ["Apprentissage profond", "Apprentissage automatique", "Développement IA"]
+      "keywords": ["Deep learning", "Apprentissage automatique", "Développement IA"]
     },
     {
       "name": "ScikitLearn",
@@ -413,7 +408,7 @@
     {
       "name": "Projet de Vision par Ordinateur",
       "isActive": false,
-      "description": "Un projet de vision par ordinateur qui détecte des objets dans des images en utilisant l'apprentissage profond à partir de zéro.",
+      "description": "Un projet de vision par ordinateur qui détecte des objets dans des images en utilisant le Deep Learning à partir de zéro.",
       "highlights": [
         "Conçu avec Python et PyTorch",
         "Déploiement sur le cloud Azure",
