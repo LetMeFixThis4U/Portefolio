@@ -5,5 +5,7 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   site: 'https://letmefixthis4u.github.io',
   base: 'Portefolio',
+  trailingSlash: 'always',
+  publicDir: 'public',
   integrations: [tailwind()],
 });
