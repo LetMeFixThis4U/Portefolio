@@ -3,8 +3,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://LetMeFixThis4U.github.io",
-  base: "Portefolio",
-  trailingSlash: "always",
+  site: 'https://letmefixthis4u.github.io',
+  base: 'Portefolio',
   integrations: [tailwind()],
 });
